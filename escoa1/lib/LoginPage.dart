@@ -1,6 +1,6 @@
-//import 'package:flutter/material.dart';
-//import 'RegisterPage.dart';
-//import 'main.dart'; // Import de ApiService depuis main.dart
+import 'package:flutter/material.dart';
+import 'RegisterPage.dart';
+import 'main.dart'; // Import de ApiService depuis main.dart
 import 'HomePage.dart'; // Assurez-vous que cela correspond à votre import de la page d'accueil
 import 'package:shared_preferences/shared_preferences.dart'; // Import SharedPreferences
 
